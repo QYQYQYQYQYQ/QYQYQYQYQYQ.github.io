@@ -2,8 +2,8 @@
 title: "A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2022-7-19-paper-title-number-1
+excerpt: 'Federated Learning'
 date: 2022-7-19
 venue: 'Conference 1'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper1.pdf'
