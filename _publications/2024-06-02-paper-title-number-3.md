@@ -3,7 +3,7 @@ title: "Affine Equivariant Networks Based on Differential Invariants"
 collection: publications
 category: conferences
 permalink: /publication/2024-06-02-paper-title-number-3
-excerpt: 'Equivariant Neural Networks, Affine Equivariance, Differential Invariants'
+excerpt: 'Yikang Li, Yeqing Qiu, Yuxuan Chen, Lingshen He, Zhouchen Lin'
 date: 2024-06-02
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper3.pdf'
