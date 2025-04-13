@@ -3,7 +3,7 @@ title: "Efficient learning of Scale-Adaptive Nearly Affine Invariant Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-06-01-paper-title-number-2
-excerpt: '**Zhengyang Shen** \*, **Yeqing Qiu** \*, Jialun Liu, Lingshen He, Zhouchen Lin'
+excerpt: '**Zhengyang Shen**\*, **Yeqing Qiu**\*, Jialun Liu, Lingshen He, Zhouchen Lin'
 date: 2024-06-01
 venue: 'Neural Networks'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper2.pdf'
