@@ -3,7 +3,7 @@ title: "A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via D
 collection: publications
 category: conferences
 permalink: /publication/2022-07-19-paper-title-number-1
-excerpt: 'Federated Learning, Differential Privacy, Graph Neural Networks'
+excerpt: '**Yeqing Qiu**, Chenyu Huang, Jianzong Wang, Zhangcheng Huang, Jing Xiao'
 date: 2022-07-19
 venue: ' Knowledge Science, Engineering and Management'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper1.pdf'
