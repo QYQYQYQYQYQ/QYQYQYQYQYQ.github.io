@@ -1,7 +1,7 @@
 ---
 title: "A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-07-19-paper-title-number-1
 excerpt: 'Federated Learning'
 date: 2022-07-19
