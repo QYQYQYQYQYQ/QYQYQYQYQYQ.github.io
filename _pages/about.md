@@ -29,32 +29,51 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 **Papers:**
 
 4.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Zhouchen Lin, Affine Steerable Equivariant Layer for Canonicalization of Neural Networks, *ICLR*, 2025.
+
 3.Zhengyang Shen\*, **Yeqing Qiu\***, Jialun Liu, Lingshen He, and Zhouchen Lin, Efficient Learning of Scale-Adaptive Nearly Affine Invariant Networks, *Neural Networks*, 2024.
+
 2.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Lingshen He, and Zhouchen Lin, Affine Equivariant Networks Based on Differential Invariants, *CVPR*, 2024.
+
 1.**Yeqing Qiu**, Chenyu Huang, Jianzong Wang, Zhangcheng Huang, and Jing Xiao, A privacy-preserving subgraph-level federated graph neural network via differential privacy, *KSEM*, 2022.
 
 **Chinese Patents(Those marked by ‘*’ have been granted):**
 
 1.(202310288277.8)分布式训练方法、装置、终端设备及计算机可读介质
+
 2.(202410162884.4)基于微分不变量的仿射等变网络模型的图像分类方法
 
 **Award:**
 
 1.2019-2020学年本科生国家奖学金，2020
+
 2.全国大学生数学竞赛数学 A 组三等奖，2020
+
 3.全国（部分地区）大学生物理竞赛非物理组三等奖，2020
+
 4.2020-2021学年本科生国家奖学金，2021
+
 5.北京交通大学知行奖学金单项奖勤学奖提名人，2021
-3.第45届国际大学生程序设计竞赛南京站铜牌，2021
+
+6.第45届国际大学生程序设计竞赛南京站铜牌，2021
+
 7.2021-2022学年本科生国家奖学金，2022
+
 8.北京交通大学知行奖学金，2022
+
 9.北京交通大学三好学生标兵，2022
+
 10.美国大学生数学建模竞赛杰出论文提名奖（Finalist Medal），2022
+
 11.蓝桥杯程序设计竞赛全国总决赛二等奖，2022
+
 12.北京市三好学生，2023
+
 13.北京市优秀毕业生，2023
+
 14.2023-2024学年深圳市大数据研究院联合培养博士奖学金金奖，2024
+
 15.中国运筹学会数学规划分会第十届研究生论坛优秀报告，2024
+
 
 <h4>Friends:</h4>
 <a href="http://lornd.top">lornd's blog</a><br /><a href="http://dofy.top/">DOFY's blog</a><br /><a href="http://kaloronahuang.com">kalorona's blog</a><br /><a href="http://learningman.top">zxilly's blog</a><br /><a href="http://zepto.page">xg_zepto's blog</a><br /><a href="http://retaqwq.github.io">reta's blog</a><br /><a href="http://widerthansky.com">QunfengJiang's blog</a><br /><a href="https://lushuyu.site/">LSY!'s blog</a><br /><a href="http://crazydave.top">CrazyDave's blog</a><br /><a href="http://glisses.github.io">Glis's blog</a>
