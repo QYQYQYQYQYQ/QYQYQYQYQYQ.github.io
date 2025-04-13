@@ -1,49 +1,60 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm Yeqing Qiu (邱烨卿), a second year PhD student supervised by Prof. Zhi-Quan Luo in the Chinese University of Hong Kong, Shenzhen.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Before joining CUHKSZ, I obtained my Bachelor's degree at Beijing Jiaotong University. During my undergraduate studies, I had the opportunity to work as an intern researcher at Pingan Tech, focusing on data privacy and Federated Learning. Subsequently, I pursued another internship at ZeroLab, under the guidance of Professor Zhouchen Lin at Peking University, where I delved into equivariant neural networks. Additionally, I had the privilege of working as an intern researcher at Baidu AR team, where I explored the exciting world of computer vision.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am currently a collaborative PhD student, jointly affiliated with the Shenzhen Research Institute of Big Data and CUHKSZ. My academic interests primarily revolve around Optimization and Deep Learning. This blog is mainly about my learning note and some gossip essay lol.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Curriculum Vitae:**
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+|  Period | Position  | Institution  | Research Focus |
+| :-------: | :-------: | :-------: | :-------:|
+| 2023.09-now  | PhD Student (Supervisor: Zhi-quan Luo)  | School of Science and Engineering, the Chinese University of Hong Kong, Shenzhen  | Optimization, 5G, Deep Learning |
+| 2023.09-now  | Collaborative PhD Student (Supervisor: Qingjiang Shi, Ye Xue)  | Shenzhen Research Institute of Big Data  | Optimization, 5G, Deep Learning |
+| 2022.01-now  | Co-supervision Student (Supervisor: Zhouchen Lin) | ZEROLab, Peking University  | Deep Learning |
+| 2022.08-2023.06  | Intern  | Baidu Inc.  | Computer Vision and Image Processing |
+| 2021.08-2022.06  | Intern  | Pingan Tech.  | Data Privacy and Federated Learning |
+| 2019.09-2023.06  | Undergraduate Candidate  | School of Mathemetics and Statistics, Beijing Jiaotong Univeristy  | Computational Mathematics |
 
-**Markdown generator**
+**Papers:**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+4.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Zhouchen Lin, Affine Steerable Equivariant Layer for Canonicalization of Neural Networks, *ICLR*, 2025.
+3.Zhengyang Shen\*, **Yeqing Qiu\***, Jialun Liu, Lingshen He, and Zhouchen Lin, Efficient Learning of Scale-Adaptive Nearly Affine Invariant Networks, *Neural Networks*, 2024.
+2.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Lingshen He, and Zhouchen Lin, Affine Equivariant Networks Based on Differential Invariants, *CVPR*, 2024.
+1.**Yeqing Qiu**, Chenyu Huang, Jianzong Wang, Zhangcheng Huang, and Jing Xiao, A privacy-preserving subgraph-level federated graph neural network via differential privacy, *KSEM*, 2022.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Chinese Patents(Those marked by ‘*’ have been granted):**
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+1.(202310288277.8)分布式训练方法、装置、终端设备及计算机可读介质
+2.(202410162884.4)基于微分不变量的仿射等变网络模型的图像分类方法
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Award:**
+
+1.2019-2020学年本科生国家奖学金，2020
+2.全国大学生数学竞赛数学 A 组三等奖，2020
+3.全国（部分地区）大学生物理竞赛非物理组三等奖，2020
+4.2020-2021学年本科生国家奖学金，2021
+5.北京交通大学知行奖学金单项奖勤学奖提名人，2021
+3.第45届国际大学生程序设计竞赛南京站铜牌，2021
+7.2021-2022学年本科生国家奖学金，2022
+8.北京交通大学知行奖学金，2022
+9.北京交通大学三好学生标兵，2022
+10.美国大学生数学建模竞赛杰出论文提名奖（Finalist Medal），2022
+11.蓝桥杯程序设计竞赛全国总决赛二等奖，2022
+12.北京市三好学生，2023
+13.北京市优秀毕业生，2023
+14.2023-2024学年深圳市大数据研究院联合培养博士奖学金金奖，2024
+15.中国运筹学会数学规划分会第十届研究生论坛优秀报告，2024
+
+<h4>Friends:</h4>
+<a href="http://lornd.top">lornd's blog</a><br /><a href="http://dofy.top/">DOFY's blog</a><br /><a href="http://kaloronahuang.com">kalorona's blog</a><br /><a href="http://learningman.top">zxilly's blog</a><br /><a href="http://zepto.page">xg_zepto's blog</a><br /><a href="http://retaqwq.github.io">reta's blog</a><br /><a href="http://widerthansky.com">QunfengJiang's blog</a><br /><a href="https://lushuyu.site/">LSY!'s blog</a><br /><a href="http://crazydave.top">CrazyDave's blog</a><br /><a href="http://glisses.github.io">Glis's blog</a>
