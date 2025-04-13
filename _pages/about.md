@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Bio
 
 I'm Yeqing Qiu (邱烨卿), a second year PhD student supervised by Prof. Zhi-Quan Luo in the Chinese University of Hong Kong, Shenzhen.
 
@@ -15,7 +16,7 @@ Before joining CUHKSZ, I obtained my Bachelor's degree at Beijing Jiaotong Unive
 I am currently a collaborative PhD student, jointly affiliated with the Shenzhen Research Institute of Big Data and CUHKSZ. My academic interests primarily revolve around Optimization and Deep Learning. This blog is mainly about my learning note and some gossip essay lol.
 
 
-**Curriculum Vitae:**
+## Curriculum Vitae
 
 |  Period | Position  | Institution  | Research Focus |
 | :-------: | :-------: | :-------: | :-------:|
@@ -26,7 +27,7 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 | 2021.08-2022.06  | Intern  | Pingan Tech.  | Data Privacy and Federated Learning |
 | 2019.09-2023.06  | Undergraduate  | School of Mathemetics and Statistics, Beijing Jiaotong Univeristy  | Computational Mathematics |
 
-**Papers:**
+## Publications
 
 4.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Zhouchen Lin, Affine Steerable Equivariant Layer for Canonicalization of Neural Networks, *ICLR*, 2025.
 
@@ -36,13 +37,13 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 
 1.**Yeqing Qiu**, Chenyu Huang, Jianzong Wang, Zhangcheng Huang, and Jing Xiao, A privacy-preserving subgraph-level federated graph neural network via differential privacy, *KSEM*, 2022.
 
-**Chinese Patents(Those marked by ‘*’ have been granted):**
+## Chinese Patents(Those marked by ‘*’ have been granted):
 
 1.(202310288277.8)分布式训练方法、装置、终端设备及计算机可读介质
 
 2.(202410162884.4)基于微分不变量的仿射等变网络模型的图像分类方法
 
-**Award:**
+## Award:
 
 1.2019-2020学年本科生国家奖学金，2020
 
@@ -75,5 +76,6 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 15.中国运筹学会数学规划分会第十届研究生论坛优秀报告，2024
 
 
-<h4>Friends:</h4>
+## Friends:
+
 <a href="http://lornd.top">lornd's blog</a><br /><a href="http://dofy.top/">DOFY's blog</a><br /><a href="http://kaloronahuang.com">kalorona's blog</a><br /><a href="http://learningman.top">zxilly's blog</a><br /><a href="http://zepto.page">xg_zepto's blog</a><br /><a href="http://retaqwq.github.io">reta's blog</a><br /><a href="http://widerthansky.com">QunfengJiang's blog</a><br /><a href="https://lushuyu.site/">LSY!'s blog</a><br /><a href="http://crazydave.top">CrazyDave's blog</a><br /><a href="http://glisses.github.io">Glis's blog</a>
