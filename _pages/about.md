@@ -24,7 +24,7 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 | 2022.01-now  | Co-supervision Student (Supervisor: Zhouchen Lin) | ZEROLab, Peking University  | Deep Learning |
 | 2022.08-2023.06  | Intern  | Baidu Inc.  | Computer Vision and Image Processing |
 | 2021.08-2022.06  | Intern  | Pingan Tech.  | Data Privacy and Federated Learning |
-| 2019.09-2023.06  | Undergraduate Candidate  | School of Mathemetics and Statistics, Beijing Jiaotong Univeristy  | Computational Mathematics |
+| 2019.09-2023.06  | Undergraduate  | School of Mathemetics and Statistics, Beijing Jiaotong Univeristy  | Computational Mathematics |
 
 **Papers:**
 
