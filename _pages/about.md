@@ -29,7 +29,7 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 
 ## Publications
 
-5. **Yeqing Qiu**, Ye Xue, Akang Wang, Yiheng Wang, Qingjiang Shi, Zhi-Quan Luo, ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems, *ICML*, 2025.
+5.**Yeqing Qiu**, Ye Xue, Akang Wang, Yiheng Wang, Qingjiang Shi, Zhi-Quan Luo, ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems, *ICML*, 2025.
 
 4.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Zhouchen Lin, Affine Steerable Equivariant Layer for Canonicalization of Neural Networks, *ICLR*, 2025.
 
