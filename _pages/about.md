@@ -29,7 +29,7 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 
 ## Publications
 
-7.**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, ``Relaxation-Free Min-$k$-Partition for PCI Assignment in 5G Networks'', *IEEE Transactions on Signal Processing*, 2025.
+7.**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, ``Relaxation-Free Min-k-Partition for PCI Assignment in 5G Networks'', *IEEE Transactions on Signal Processing*, 2025.
 
 6.**Yeqing Qiu**, Ye Xue, Zhipeng Jiang, Qingjiang Shi, ``Relaxed Gradient Projection for PCI Assignment in 5G Network'', *IEEE/CIC ICCC*, 2025.
 
