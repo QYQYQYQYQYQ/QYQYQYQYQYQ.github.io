@@ -29,6 +29,10 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 
 ## Publications
 
+7.**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, ``Relaxation-Free Min-$k$-Partition for PCI Assignment in 5G Networks'', *IEEE Transactions on Signal Processing*, 2025.
+
+6.**Yeqing Qiu**, Ye Xue, Zhipeng Jiang, Qingjiang Shi, ``Relaxed Gradient Projection for PCI Assignment in 5G Network'', *IEEE/CIC ICCC*, 2025.
+
 5.**Yeqing Qiu**, Ye Xue, Akang Wang, Yiheng Wang, Qingjiang Shi, Zhi-Quan Luo, ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems, *ICML*, 2025.
 
 4.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Zhouchen Lin, Affine Steerable Equivariant Layer for Canonicalization of Neural Networks, *ICLR*, 2025.
@@ -77,6 +81,7 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 
 15.中国运筹学会数学规划分会第十届研究生论坛优秀报告，2024
 
+16. 清华大学“先进MIMO无线通信理论与技术”研讨会无线未来之星，2025
 
 ## Friends:
 
