@@ -81,7 +81,7 @@ I am currently a collaborative PhD student, jointly affiliated with the Shenzhen
 
 15.中国运筹学会数学规划分会第十届研究生论坛优秀报告，2024
 
-16. 清华大学“先进MIMO无线通信理论与技术”研讨会无线未来之星，2025
+16.清华大学“先进MIMO无线通信理论与技术”研讨会无线未来之星，2025
 
 ## Friends:
 
