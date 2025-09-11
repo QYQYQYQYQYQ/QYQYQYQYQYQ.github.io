@@ -1,7 +1,7 @@
 ---
 title: "Relaxation-Free Min-$k$-Partition for PCI Assignment in 5G Networks"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-09-12-paper-title-number-6
 excerpt: '**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo'
 date: 2025-09-12
