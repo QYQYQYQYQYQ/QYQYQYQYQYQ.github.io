@@ -1,5 +1,5 @@
 ---
-title: "Relaxation-Free Min-$k$-Partition for PCI Assignment in 5G Networks"
+title: "Relaxation-Free Min-k-Partition for PCI Assignment in 5G Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-12-paper-title-number-6
