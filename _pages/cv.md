@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer and Information Engineering, School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, 2028 (expected)
+  * Supervisor: Zhi-Quan Luo
+* B.S. in Information and Computing Science, School of Mathematics and Statistics, Beijing Jiaotong University, 2023
+  * Supervisor: Naihua Xiu
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep. 2023 to now: Collaborative PhD Student
+  * Shenzhen Research Institution of Big Data
+  * Optimization, 5G, Deep Learning
+  * Supervisor: Qingjiang Shi, Ye Xue
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2022 to now: Co-supervision Student
+  * ZeroLab, Peking University
+  * Deep Learning
+  * Supervisor: Zhouchen Lin
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2022 to Jun. 2023: Algorithm Engineer
+  * Baidu Inc.
+  * Computer Vision and Image Processing
+  * Mentor: Zhengyang Shen
+
+* Aug. 2021 to Jun. 2022: Algorithm Engineer
+  * Pingan Tech.
+  * Data Privacy and Federated Learning
+  * Mentor: Chenyu Huang
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
