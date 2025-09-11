@@ -9,23 +9,8 @@ redirect_from:
 ---
 ## Bio
 
-I'm Yeqing Qiu (邱烨卿), a second year PhD student supervised by Prof. Zhi-Quan Luo in the Chinese University of Hong Kong, Shenzhen.
+I'm Yeqing Qiu (邱烨卿), a second year PhD student supervised by Prof. Zhi-Quan Luo in the Chinese University of Hong Kong, Shenzhen. My academic interests primarily revolve around Optimization and Deep Learning. This blog is mainly about my learning note and some gossip essay lol.
 
-Before joining CUHKSZ, I obtained my Bachelor's degree at Beijing Jiaotong University. During my undergraduate studies, I had the opportunity to work as an intern researcher at Pingan Tech, focusing on data privacy and Federated Learning. Subsequently, I pursued another internship at ZeroLab, under the guidance of Professor Zhouchen Lin at Peking University, where I delved into equivariant neural networks. Additionally, I had the privilege of working as an intern researcher at Baidu AR team, where I explored the exciting world of computer vision.
-
-I am currently a collaborative PhD student, jointly affiliated with the Shenzhen Research Institute of Big Data and CUHKSZ. My academic interests primarily revolve around Optimization and Deep Learning. This blog is mainly about my learning note and some gossip essay lol.
-
-
-## Curriculum Vitae
-
-|  Period | Position  | Institution  | Research Focus |
-| :-------: | :-------: | :-------: | :-------:|
-| 2023.09-now  | PhD Student (Supervisor: Zhi-quan Luo)  | School of Science and Engineering, the Chinese University of Hong Kong, Shenzhen  | Optimization, 5G, Deep Learning |
-| 2023.09-now  | Collaborative PhD Student (Supervisor: Qingjiang Shi, Ye Xue)  | Shenzhen Research Institute of Big Data  | Optimization, 5G, Deep Learning |
-| 2022.01-now  | Co-supervision Student (Supervisor: Zhouchen Lin) | ZEROLab, Peking University  | Deep Learning |
-| 2022.08-2023.06  | Intern  | Baidu Inc.  | Computer Vision and Image Processing |
-| 2021.08-2022.06  | Intern  | Pingan Tech.  | Data Privacy and Federated Learning |
-| 2019.09-2023.06  | Undergraduate  | School of Mathemetics and Statistics, Beijing Jiaotong Univeristy  | Computational Mathematics |
 
 ## Publications
 
