@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Bio
 
-I'm Yeqing Qiu (邱烨卿), a second year PhD student supervised by Prof. Zhi-Quan Luo in the Chinese University of Hong Kong, Shenzhen. My academic interests primarily revolve around Optimization and Deep Learning. This blog is mainly about my learning note and some gossip essay lol.
+I'm Yeqing Qiu (邱烨卿), a third-year PhD student supervised by Prof. Zhi-Quan Luo in the Chinese University of Hong Kong, Shenzhen. My academic interests primarily revolve around Optimization and Deep Learning. This blog is mainly about my learning notes and some gossip essay lol.
 
 
 ## Publications
