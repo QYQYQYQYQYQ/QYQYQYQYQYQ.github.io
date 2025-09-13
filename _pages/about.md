@@ -14,9 +14,9 @@ I'm Yeqing Qiu (邱烨卿), a third-year PhD student supervised by Prof. Zhi-Qua
 
 ## Publications
 
-7.**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, ``Relaxation-Free Min-k-Partition for PCI Assignment in 5G Networks'', *IEEE Transactions on Signal Processing*, 2025.
+7.**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, Relaxation-Free Min-k-Partition for PCI Assignment in 5G Networks, *IEEE Transactions on Signal Processing*, 2025.
 
-6.**Yeqing Qiu**, Ye Xue, Zhipeng Jiang, Qingjiang Shi, ``Relaxed Gradient Projection for PCI Assignment in 5G Network'', *IEEE/CIC ICCC*, 2025.
+6.**Yeqing Qiu**, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Relaxed Gradient Projection for PCI Assignment in 5G Network, *IEEE/CIC ICCC*, 2025.
 
 5.**Yeqing Qiu**, Ye Xue, Akang Wang, Yiheng Wang, Qingjiang Shi, Zhi-Quan Luo, ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems, *ICML*, 2025.
 
