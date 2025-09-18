@@ -13,6 +13,7 @@ I'm Yeqing Qiu (邱烨卿), a third-year PhD student supervised by Prof. Zhi-Qua
 
 
 ## Publications
+8.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Lingshen He, Lexiang Hu, Zhouchen Lin, Projective Equivariant Networks via Second-order Fundamental Differential Invariants, *NeurIPS* (spotlight), 2025.
 
 7.**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, Relaxation-Free Min-$$k$$-Partition for PCI Assignment in 5G Networks, *IEEE Transactions on Signal Processing*, 2025.
 
