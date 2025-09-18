@@ -14,7 +14,7 @@ I'm Yeqing Qiu (邱烨卿), a third-year PhD student supervised by Prof. Zhi-Qua
 
 ## Publications
 
-7.**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, Relaxation-Free Min-k-Partition for PCI Assignment in 5G Networks, *IEEE Transactions on Signal Processing*, 2025.
+7.**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, Relaxation-Free Min-$$k$$-Partition for PCI Assignment in 5G Networks, *IEEE Transactions on Signal Processing*, 2025.
 
 6.**Yeqing Qiu**, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Relaxed Gradient Projection for PCI Assignment in 5G Network, *IEEE/CIC ICCC*, 2025.
 
@@ -46,7 +46,7 @@ I'm Yeqing Qiu (邱烨卿), a third-year PhD student supervised by Prof. Zhi-Qua
 
 5.北京交通大学知行奖学金单项奖勤学奖提名人，2021
 
-6.第45届国际大学生程序设计竞赛南京站铜牌，2021
+6.第45届国际大学生程序设计竞赛区域赛南京站铜牌，2021
 
 7.2021-2022学年本科生国家奖学金，2022
 
@@ -56,7 +56,7 @@ I'm Yeqing Qiu (邱烨卿), a third-year PhD student supervised by Prof. Zhi-Qua
 
 10.美国大学生数学建模竞赛杰出论文提名奖（Finalist Medal），2022
 
-11.蓝桥杯程序设计竞赛全国总决赛二等奖，2022
+11.蓝桥杯程序设计竞赛C/C++组全国总决赛二等奖，2022
 
 12.北京市三好学生，2023
 
