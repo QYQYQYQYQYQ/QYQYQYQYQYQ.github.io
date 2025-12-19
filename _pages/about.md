@@ -31,7 +31,7 @@ I'm Yeqing Qiu (邱烨卿), a third-year PhD student supervised by Prof. Zhi-Qua
 
 ## Chinese Patents(Those marked by ‘*’ have been granted):
 
-1.(202310288277.8)分布式训练方法、装置、终端设备及计算机可读介质
+1.*(202310288277.8)分布式训练方法、装置、终端设备及计算机可读介质
 
 2.(202410162884.4)基于微分不变量的仿射等变网络模型的图像分类方法
 
