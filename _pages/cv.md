@@ -12,31 +12,36 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer and Information Engineering, School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, 2028 (expected)
-  * Supervisor: Zhi-Quan Luo
+  * Supervisor: Prof. Zhi-Quan Luo
 * B.S. in Information and Computing Science, School of Mathematics and Statistics, Beijing Jiaotong University, 2023
-  * Supervisor: Naihua Xiu
+  * Supervisor: Prof. Naihua Xiu
 
 Work experience
 ======
+* Dec. 2025 to now: Research Assistant
+  * Shenzhen Loop Area Institute
+  * Large Language Model, Quantization
+  * Mentor: Prof. Congliang Chen
+
 * Sep. 2023 to now: Collaborative PhD Student
   * Shenzhen Research Institution of Big Data
   * Optimization, 5G, Deep Learning
-  * Supervisor: Qingjiang Shi, Ye Xue
+  * Supervisor: Prof. Qingjiang Shi, Prof. Ye Xue
 
 * Jan. 2022 to now: Co-supervision Student
   * ZeroLab, Peking University
   * Deep Learning
-  * Supervisor: Zhouchen Lin
+  * Supervisor: Prof. Zhouchen Lin
 
 * Aug. 2022 to Jun. 2023: Algorithm Engineer
   * Baidu Inc.
   * Computer Vision and Image Processing
-  * Mentor: Zhengyang Shen
+  * Mentor: Dr. Zhengyang Shen
 
 * Aug. 2021 to Jun. 2022: Algorithm Engineer
   * Pingan Tech.
   * Data Privacy and Federated Learning
-  * Mentor: Chenyu Huang
+  * Mentor: Dr. Chenyu Huang
   
 
 Publications
