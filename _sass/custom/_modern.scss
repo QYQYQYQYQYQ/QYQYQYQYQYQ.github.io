@@ -1,0 +1,338 @@
+/* ==========================================================================
+   MODERN STYLES
+   Custom styles for modernizing the academic website
+   ========================================================================== */
+
+// Card styles for publications and blog posts
+.publication-card,
+.blog-card {
+  background: var(--global-bg-color);
+  border-radius: var(--global-border-radius);
+  padding: 1.5rem;
+  box-shadow: var(--global-box-shadow);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--global-border-color);
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .card-header {
+    margin-bottom: 1rem;
+
+    .card-thumbnail {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: calc(var(--global-border-radius) - 4px);
+      border: 1px solid var(--global-border-color);
+    }
+
+    .card-title {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin: 0.5rem 0;
+      color: var(--global-text-color);
+
+      a {
+        color: inherit;
+        text-decoration: none;
+
+        &:hover {
+          color: var(--global-link-color);
+        }
+      }
+    }
+  }
+
+  .card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 0.875rem;
+    color: var(--global-text-color-light);
+
+    .meta-item {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+
+      .meta-icon {
+        font-size: 0.75rem;
+      }
+    }
+  }
+
+  .card-excerpt {
+    color: var(--global-text-color);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .card-actions {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 1rem;
+
+    .btn {
+      padding: 0.5rem 1rem;
+      border-radius: calc(var(--global-border-radius) - 4px);
+      font-size: 0.875rem;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      border: 1px solid transparent;
+
+      &.btn-primary {
+        background-color: var(--global-link-color);
+        color: white;
+
+        &:hover {
+          background-color: var(--global-link-color-hover);
+        }
+      }
+
+      &.btn-outline {
+        background-color: transparent;
+        border-color: var(--global-border-color);
+        color: var(--global-text-color);
+
+        &:hover {
+          border-color: var(--global-link-color);
+          color: var(--global-link-color);
+        }
+      }
+    }
+  }
+}
+
+// Compact list layout for publications - one article per row, image left, content right
+.publications-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 1rem 0;
+  width: 100%;
+
+  .grid__item,
+  .archive__item {
+    display: flex !important;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 0.75rem;
+    border-radius: var(--global-border-radius);
+    border: 1px solid var(--global-border-color);
+    background: var(--global-bg-color);
+    transition: box-shadow 0.3s ease;
+    width: 100% !important;
+    float: none !important;
+    margin: 0 !important;
+    clear: both !important;
+    box-sizing: border-box !important;
+
+    &:hover {
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    }
+
+    .archive__item-teaser {
+      flex: 0 0 120px;
+      border-radius: calc(var(--global-border-radius) - 6px);
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: auto;
+        display: block;
+        object-fit: cover;
+      }
+    }
+
+    .archive__item-content {
+      flex: 1;
+      min-width: 0; /* Prevent flex item from overflowing */
+
+      .archive__item-title {
+        margin-top: 0;
+        margin-bottom: 0.25rem;
+        font-size: 1.1rem;
+
+        a {
+          color: var(--global-text-color);
+          text-decoration: none;
+
+          &:hover {
+            color: var(--global-link-color);
+          }
+        }
+      }
+
+      p {
+        margin-bottom: 0.25rem;
+        font-size: 0.9rem;
+        color: var(--global-text-color-light);
+      }
+    }
+  }
+
+  @media (max-width: $medium) {
+    gap: 0.875rem;
+
+    .grid__item,
+    .archive__item {
+      padding: 0.75rem;
+      gap: 0.875rem;
+
+      .archive__item-teaser {
+        flex: 0 0 100px;
+      }
+    }
+  }
+
+  @media (max-width: $small) {
+    .grid__item,
+    .archive__item {
+      flex-direction: column;
+      gap: 0.75rem;
+
+      .archive__item-teaser {
+        flex: 0 0 auto;
+        width: 100%;
+
+        img {
+          max-height: 180px;
+          object-fit: cover;
+        }
+      }
+    }
+  }
+}
+
+// Modern typography enhancements
+.article-header {
+  margin-bottom: 2rem;
+
+  .article-title {
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color: var(--global-text-color);
+  }
+
+  .article-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    font-size: 0.9375rem;
+    color: var(--global-text-color-light);
+
+    .meta-item {
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+  }
+}
+
+// Enhanced code blocks
+.highlight {
+  border-radius: var(--global-border-radius);
+  border: 1px solid var(--global-border-color);
+  box-shadow: var(--global-box-shadow);
+  margin: 1.5rem 0;
+  overflow: hidden;
+
+  pre {
+    margin: 0;
+    padding: 1.25rem;
+    overflow-x: auto;
+  }
+
+  .copy-button {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background: var(--global-bg-color);
+    border: 1px solid var(--global-border-color);
+    border-radius: calc(var(--global-border-radius) - 6px);
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    color: var(--global-text-color-light);
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      color: var(--global-link-color);
+      border-color: var(--global-link-color);
+    }
+  }
+
+  &:hover .copy-button {
+    opacity: 1;
+  }
+}
+
+// Modern form elements
+input, textarea, select {
+  border-radius: var(--global-border-radius);
+  border: 1px solid var(--global-border-color);
+  padding: 0.75rem;
+  font-size: 1rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+
+  &:focus {
+    outline: none;
+    border-color: var(--global-link-color);
+    box-shadow: 0 0 0 3px rgba(74, 111, 165, 0.1);
+  }
+}
+
+// Utility classes
+.text-accent {
+  color: $accent-color;
+}
+
+.bg-accent {
+  background-color: $accent-color;
+  color: white;
+}
+
+.rounded-lg {
+  border-radius: calc(var(--global-border-radius) + 4px);
+}
+
+.shadow-lg {
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+// Animation utilities
+.fade-in {
+  animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// Responsive improvements
+@media (max-width: $small) {
+  .publication-card,
+  .blog-card {
+    padding: 1rem;
+  }
+
+  .article-title {
+    font-size: 1.75rem;
+  }
+}
