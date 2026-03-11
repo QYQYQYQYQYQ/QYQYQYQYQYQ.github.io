@@ -11,57 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer and Information Engineering, School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, 2028 (expected)
-  * Supervisor: Prof. Zhi-Quan Luo
-* B.S. in Information and Computing Science, School of Mathematics and Statistics, Beijing Jiaotong University, 2023
-  * Supervisor: Prof. Naihua Xiu
+* 2023 -- now: Ph.D in Computer and Information Engineering, School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen (Supervisor: [Prof. Zhi-Quan Luo](https://tomluo123.github.io/))
+* 2019 -- 2023: B.S. in Information and Computing Science, School of Mathematics and Statistics, Beijing Jiaotong University (Supervisor: [Prof. Naihua Xiu](https://faculty.bjtu.edu.cn/6336/))
 
 Work experience
 ======
-* Dec. 2025 to now: Research Assistant
-  * Shenzhen Loop Area Institute
-  * Large Language Model, Quantization
-  * Mentor: Prof. Congliang Chen
-
-* Sep. 2023 to now: Collaborative PhD Student
-  * Shenzhen Research Institution of Big Data
-  * Optimization, 5G, Deep Learning
-  * Supervisor: Prof. Qingjiang Shi, Prof. Ye Xue
-
-* Jan. 2022 to now: Co-supervision Student
-  * ZeroLab, Peking University
-  * Deep Learning
-  * Supervisor: Prof. Zhouchen Lin
-
-* Aug. 2022 to Jun. 2023: Algorithm Engineer
-  * Baidu Inc.
-  * Computer Vision and Image Processing
-  * Mentor: Dr. Zhengyang Shen
-
-* Aug. 2021 to Jun. 2022: Algorithm Engineer
-  * Pingan Tech.
-  * Data Privacy and Federated Learning
-  * Mentor: Dr. Chenyu Huang
+* 2025.12 -- now: Research Assistant, Shenzhen Loop Area Institute (Mentor: [Prof. Congliang Chen](https://scholar.google.com/citations?user=O1P1-EAAAAAJ&hl=en))
+* 2023.09 -- now: Collaborative Ph.D Student, Shenzhen Research Institution of Big Data (Supervisor: [Prof. Qingjiang Shi](https://sse.tongji.edu.cn/info/1210/4497.htm), [Prof. Ye Xue](https://yokoxue.github.io/))
+* 2022.01 -- now: Co-supervision Ph.D Student, ZeroLab, Peking University(Supervisor: [Prof. Zhouchen Lin](https://zhouchenlin.github.io/))
+* 2022.08 -- 2023.01: Algorithm Engineer, Baidu Inc. (Mentor: [Dr. Zhengyang Shen](https://scholar.google.com.hk/citations?user=_oE1CGgAAAAJ&hl=en))
+* 2021.08 -- 2022.01: Algorithm Engineer, Pingan Tech (Mentor: [Dr. Chenyu Huang](https://scholar.google.com/citations?user=z-Y6a00AAAAJ&hl=zh-CN&oi=sra))
   
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
