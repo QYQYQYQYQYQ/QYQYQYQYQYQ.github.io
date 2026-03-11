@@ -138,15 +138,22 @@
     }
 
     .archive__item-teaser {
-      flex: 0 0 120px;
+      flex: 0 0 400px;
+      height: 200px;
       border-radius: calc(var(--global-border-radius) - 6px);
       overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: var(--global-bg-color);
 
       img {
         width: 100%;
         height: auto;
-        display: block;
-        object-fit: cover;
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+        max-height: none;
       }
     }
 
@@ -186,7 +193,21 @@
       gap: 0.875rem;
 
       .archive__item-teaser {
-        flex: 0 0 100px;
+        flex: 0 0 350px;
+        height: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--global-bg-color);
+
+        img {
+          width: 100%;
+          height: auto;
+          max-width: 100%;
+          max-height: 100%;
+          object-fit: contain;
+          max-height: none;
+        }
       }
     }
   }
@@ -200,10 +221,18 @@
       .archive__item-teaser {
         flex: 0 0 auto;
         width: 100%;
+        height: 180px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: var(--global-bg-color);
 
         img {
-          max-height: 180px;
-          object-fit: cover;
+          width: 100%;
+          height: auto;
+          max-width: 100%;
+          max-height: 100%;
+          object-fit: contain;
         }
       }
     }

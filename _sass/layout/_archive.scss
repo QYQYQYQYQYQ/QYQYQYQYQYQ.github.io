@@ -69,8 +69,17 @@
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--global-bg-color);
+
   img {
     width: 100%;
+    max-height: none;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
   }
 }
 
@@ -131,7 +140,7 @@
   @include breakpoint($small) {
     @include gallery(5 of 10);
     .archive__item-teaser {
-      max-height: 200px;
+      max-height: none;
     }
   }
 
@@ -141,7 +150,7 @@
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {
-      max-height: 120px;
+      max-height: none;
     }
 
     .archive__item-excerpt {
@@ -171,7 +180,7 @@
     @include gallery(4 of 12);
 
     .feature__item-teaser {
-      max-height: 200px;
+      max-height: none;
       overflow: hidden;
     }
   }
