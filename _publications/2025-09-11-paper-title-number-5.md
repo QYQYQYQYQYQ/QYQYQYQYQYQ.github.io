@@ -7,6 +7,7 @@ excerpt: '**Yeqing Qiu**, Ye Xue, Akang Wang, Yiheng Wang, Qingjiang Shi, Zhi-Qu
 date: 2025-09-11
 venue: 'Forty-Second International Conference on Machine Learning'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper5.pdf'
+bibtexurl: 'http://qyqyqyqyqyq.github.io/files/bibtex5.bib'
 header:
   teaser: publications/paper5.png
 ---

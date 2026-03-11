@@ -7,6 +7,7 @@ excerpt: '**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi,
 date: 2025-09-12
 venue: 'IEEE Transactions on Signal Processing'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper6.pdf'
+bibtexurl: 'http://qyqyqyqyqyq.github.io/files/bibtex6.bib'
 header:
   teaser: publications/paper6.png
 ---

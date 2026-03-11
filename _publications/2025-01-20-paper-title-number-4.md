@@ -7,6 +7,7 @@ excerpt: 'Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Zhouchen Lin'
 date: 2025-01-20
 venue: 'The Thirteenth International Conference on Learning Representations'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper4.pdf'
+bibtexurl: 'http://qyqyqyqyqyq.github.io/files/bibtex4.bib'
 header:
   teaser: publications/paper4.png
 ---

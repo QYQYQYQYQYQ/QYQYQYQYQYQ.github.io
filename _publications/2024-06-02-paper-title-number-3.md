@@ -7,6 +7,7 @@ excerpt: 'Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Lingshen He, Zhouchen Lin'
 date: 2024-06-02
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper3.pdf'
+bibtexurl: 'http://qyqyqyqyqyq.github.io/files/bibtex3.bib'
 header:
   teaser: publications/paper3.png
 ---

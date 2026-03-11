@@ -7,6 +7,7 @@ excerpt: 'Zhengyang Shen\*, **Yeqing Qiu**\*, Jialun Liu, Lingshen He, Zhouchen 
 date: 2024-06-01
 venue: 'Neural Networks'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper2.pdf'
+bibtexurl: 'http://qyqyqyqyqyq.github.io/files/bibtex2.bib'
 header:
   teaser: publications/paper2.png
 ---
