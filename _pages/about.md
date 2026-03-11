@@ -12,22 +12,18 @@ redirect_from:
 I'm Yeqing Qiu (邱烨卿), a third-year PhD student supervised by Prof. Zhi-Quan Luo in the Chinese University of Hong Kong, Shenzhen. My academic interests primarily revolve around Optimization and Deep Learning. This blog is mainly about my learning notes and some gossip essay lol.
 
 
-## Publications
-8.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Lingshen He, Lexiang Hu, Zhouchen Lin, Projective Equivariant Networks via Second-order Fundamental Differential Invariants, *NeurIPS* (spotlight), 2025.
 
-7.**Yeqing Qiu**, Chengpiao Huang, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Dong Zhang, Zhi-Quan Luo, Relaxation-Free Min-$$k$$-Partition for PCI Assignment in 5G Networks, *IEEE Transactions on Signal Processing*, 2025.
+## 🔥 News
 
-6.**Yeqing Qiu**, Ye Xue, Zhipeng Jiang, Qingjiang Shi, Relaxed Gradient Projection for PCI Assignment in 5G Network, *IEEE/CIC ICCC*, 2025.
-
-5.**Yeqing Qiu**, Ye Xue, Akang Wang, Yiheng Wang, Qingjiang Shi, Zhi-Quan Luo, ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-$$k$$-Cut Problems, *ICML*, 2025.
-
-4.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Zhouchen Lin, Affine Steerable Equivariant Layer for Canonicalization of Neural Networks, *ICLR*, 2025.
-
-3.Zhengyang Shen\*, **Yeqing Qiu\***, Jialun Liu, Lingshen He, and Zhouchen Lin, Efficient Learning of Scale-Adaptive Nearly Affine Invariant Networks, *Neural Networks*, 2024.
-
-2.Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Lingshen He, and Zhouchen Lin, Affine Equivariant Networks Based on Differential Invariants, *CVPR*, 2024.
-
-1.**Yeqing Qiu**, Chenyu Huang, Jianzong Wang, Zhangcheng Huang, and Jing Xiao, A privacy-preserving subgraph-level federated graph neural network via differential privacy, *KSEM*, 2022.
+* _2025.09_: 🎉🎉 One paper is accepted by **NeurIPS 2025** as a spotlight.
+* _2025.08_: 🎉🎉 Won Future Star Award @MIMO seminar, Tsinghua University.
+* _2025.08_: 🎉🎉 One paper is accepted by **IEEE Transactions on Signal Processing**.
+* _2025.06_: 🎉🎉 One paper is accepted by **IEEE/CIC ICCC 2025**.
+* _2025.04_: 🎉🎉 One paper is accepted by **ICML 2025**.
+* _2025.01_: 🎉🎉 One paper is accepted by **ICLR 2025**.
+* _2024.11_: 🎉🎉 Won outstanding presentation award @Graduate Forum of Mathematical Programming Branch of ORSC.
+* _2024.06_: 🎉🎉 One paper is accepted by **CVPR 2024**.
+* _2024.02_: 🎉🎉 One paper is accepted by **Neural Networks**.
 
 
 ## Friends:
