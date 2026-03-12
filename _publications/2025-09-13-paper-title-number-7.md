@@ -1,15 +1,14 @@
 ---
-title: "Projective Equivariant Networks via Second-order Fundamental Differential Invariants"
+title: "Relaxed Gradient Projection for PCI Assignment in 5G Network"
 collection: publications
 category: conferences
-permalink: /publication/2025-09-12-paper-title-number-7
-excerpt: 'Yikang Li, **Yeqing Qiu**, Yuxuan Chen, Lingshen He, Lexiang Hu, Zhouchen Lin'
+permalink: /publication/2025-09-13-paper-title-number-7
+excerpt: '**Yeqing Qiu**, Ye Xue, Zhipeng Jiang, Qingjiang Shi'
 date: 2025-09-13
-venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems (spotlight)'
+venue: 'IEEE/CIC International Conference on Communications in China'
 paperurl: 'http://qyqyqyqyqyq.github.io/files/paper7.pdf'
-bibtexurl: 'http://qyqyqyqyqyq.github.io/files/bibtex7.bib'
 header:
   teaser: publications/paper7.png
 ---
 
-**Abstract:** Equivariant networks enhance model efficiency and generalization by embedding symmetry priors into their architectures. However, most existing methods, primarily based on group convolutions and steerable convolutions, face significant limitations when dealing with complex transformation groups, particularly the projective group, which plays a crucial role in vision. In this work, we tackle the challenge by constructing projective equivariant networks based on differential invariants. Using the moving frame method with a carefully selected cross section tailored for multi-dimensional functions, we derive a complete and concise set of second-order fundamental differential invariants of the projective group. We provide a rigorous analysis of the properties and transformation relationships of their underlying components, yielding a further simplified and unified set of fundamental differential invariants, which facilitates both theoretical analysis and practical applications. Building on this foundation, we develop PDINet, the first framework for deep projective equivariant networks, achieving full projective equivariance without discretizing or sampling the group. Empirical results on the projectively transformed STL-10 and Imagenette datasets show that PDINet achieves improvements of 11.39% and 5.66% in accuracy over the respective standard baselines under out-of-distribution settings, demonstrating its strong generalization to complex geometric transformations.
+**Abstract:** The optimization of Physical Cell Identity (PCI) assignment is a critical challenge in 5 G network deployment, as improper assignments can lead to severe network issues, including collisions, confusions, and mod- 3 interference. This paper proposes a novel Relaxed Gradient Projection (RGP) method that integrates discrete and continuous optimization techniques to effectively minimize these issues. Unlike conventional discrete approaches such as graph coloring, heuristic methods, and binary quadratic programming (BQP) approaches, RGP reformulates the PCI assignment problem into a continuous optimization problem over the Cartesian product of probability simplexes. A gradient projection algorithm then computes near-optimal assignments, which are subsequently rounded to discrete PCI assignments. Extensive numerical evaluations on real-world 5 G network data demonstrate that RGP significantly reduces mod- 3 interference while maintaining superior performance in minimizing collisions and confusions. Moreover, RGP scales efficiently to large networks, offering a practical and computationally efficient solution for PCI optimization.
