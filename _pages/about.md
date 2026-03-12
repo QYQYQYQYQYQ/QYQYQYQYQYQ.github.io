@@ -16,12 +16,12 @@ I'm Yeqing Qiu (邱烨卿), a third-year PhD student supervised by Prof. Zhi-Qua
 ## 🔥 News
 
 * _2025.09_: 🎉🎉 One paper is accepted by **NeurIPS 2025** as a spotlight. 
-* _2025.08_: 🎉🎉 Won **Future Star of Wireless Communications** @MIMO seminar, Tsinghua University. 
+* _2025.08_: 🏆🏆 Won **Future Star of Wireless Communications** @MIMO seminar, Tsinghua University. 
 * _2025.08_: 🎉🎉 One paper is accepted by **IEEE Transactions on Signal Processing**. 
 * _2025.06_: 🎉🎉 One paper is accepted by **IEEE/CIC ICCC 2025**. 
 * _2025.04_: 🎉🎉 One paper is accepted by **ICML 2025**. 
 * _2025.01_: 🎉🎉 One paper is accepted by **ICLR 2025**. 
-* _2024.11_: 🎉🎉 Won **outstanding presentation award** @Graduate Forum, Mathematical Programming Branch of ORSC. 
+* _2024.11_: 🏆🏆 Won **outstanding presentation award** @Graduate Forum, Mathematical Programming Branch of ORSC. 
 * _2024.06_: 🎉🎉 One paper is accepted by **CVPR 2024**. 
 * _2024.02_: 🎉🎉 One paper is accepted by **Neural Networks**. 
 

@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -1 *.md)",
+      "Bash(python3 ../add_frontmatter.py)",
+      "Bash(python3 /Users/qiuyeqing/Desktop/vibe coding/QYQYQYQYQYQ.github.io/add_frontmatter.py)",
+      "Bash(python3 \"/Users/qiuyeqing/Desktop/vibe coding/QYQYQYQYQYQ.github.io/add_frontmatter.py\")",
+      "Bash(python3 redate_posts.py)",
+      "Bash(python3 fix_dates.py)",
+      "Bash(python3 adjust_subsequent_dates.py)",
+      "Bash(python3 rename_posts.py)",
+      "Bash(ls *.md)",
+      "Bash(ls -la *Information*)",
+      "Bash(ls -la Gemfile*)",
+      "Bash(bundle exec:*)"
+    ]
+  }
+}
