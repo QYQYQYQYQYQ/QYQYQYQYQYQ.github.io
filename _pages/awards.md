@@ -6,20 +6,16 @@ author_profile: true
 
 ## Postgraduate Phase: 
 
-1. 深圳市大数据研究院联合培养博士奖学金金奖，2024, 2025
-2. 中国运筹学会数学规划分会第十届研究生论坛优秀报告，2024
-3. 清华大学“先进MIMO无线通信理论与技术”研讨会无线未来之星，2025
+1. Gold Award, Joint PhD Scholarship of the SRIBD, 2024, 2025
+2. Outstanding Presentation Award, 10th Graduate Student Forum of the Mathematical Programming Society, ORSC, 2024
+3. Wireless Future Star, Advanced MIMO Wireless Communication Workshop, Tsinghua University, 2025
 
 ## Undergraduate Phase: 
 
-1. 本科生国家奖学金，2020, 2021, 2022
-2. 全国大学生数学竞赛数学 A 组三等奖，2020
-3. 全国（部分地区）大学生物理竞赛非物理组三等奖，2020
-4. 北京交通大学知行奖学金单项奖勤学奖提名人，2021
-5. 国际大学生程序设计竞赛区域赛铜牌，2021
-6. 北京交通大学知行奖学金，2022
-7. 北京交通大学三好学生标兵，2022
-8. 美国大学生数学建模竞赛杰出论文提名奖（Finalist Medal），2022
-9. 蓝桥杯程序设计竞赛C/C++组全国总决赛二等奖，2022
-10. 北京市三好学生，2023
-11. 北京市优秀毕业生，2023
+1. National Scholarship for Undergraduates, 2020, 2021, 2022
+2. Third Prize, Chinese Mathematics Competitions for College Students (Group A), 2020
+3. Bronze Medal, International Collegiate Programming Contest (Regional Contest), 2021
+4. Zhixing Scholarship, Beijing Jiaotong University, 2022
+5. Finalist Medal, Mathematical Contest in Modeling (MCM/ICM), 2022
+6. Beijing Merit Student, 2023
+7. Beijing Outstanding Graduate, 2023
