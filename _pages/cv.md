@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "📄 Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## 🎓 Education
 * The Chinese University of Hong Kong, Shenzhen, China
   * Ph.D in Computer and Information Engineering, School of Science and Engineering (2023.09 -- now)
   * Supervisor: [Prof. Zhi-Quan Luo](https://tomluo123.github.io/)
 * Beijing Jiaotong University, Beijing, China
-  * B.S. in Information and Computing Science, School of Mathematics and Statistics (2019.09 -- 2023.06)
+  *  B.S. in Information and Computing Science, School of Mathematics and Statistics (2019.09 -- 2023.06)
   * Supervisor: [Prof. Naihua Xiu](https://faculty.bjtu.edu.cn/6336/)
 
-## Work experience
+## 💼 Work experience
 * Shenzhen Loop Area Institute, Shenzhen, China
   * Research Assistant (2025.12 -- now)
   * Mentor: [Prof. Congliang Chen](https://scholar.google.com/citations?user=O1P1-EAAAAAJ&hl=en)

@@ -12,7 +12,8 @@
       "Bash(ls *.md)",
       "Bash(ls -la *Information*)",
       "Bash(ls -la Gemfile*)",
-      "Bash(bundle exec:*)"
+      "Bash(bundle exec:*)",
+      "Read(//Users/qiuyeqing/Desktop/**)"
     ]
   }
 }

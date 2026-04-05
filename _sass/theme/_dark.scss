@@ -51,4 +51,12 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
+    --global-card-bg-color              : #{$background};
+    --global-card-border-radius         : 8px;
+    --global-card-box-shadow            : 0 2px 12px rgba(0, 0, 0, 0.3);
+    --global-card-box-shadow-hover      : 0 8px 24px rgba(0, 0, 0, 0.4);
+    --global-card-padding               : 0.5rem;
+    --global-card-spacing               : 0.75rem;
+    --global-card-transition            : all 0.3s ease;
+    --global-meta-bg-color              : rgba(255, 255, 255, 0.08);
 }
