@@ -23,7 +23,7 @@ redirect_from:
   * Mentor: [Prof. Congliang Chen](https://scholar.google.com/citations?user=O1P1-EAAAAAJ&hl=en)
 * Shenzhen Research Institution of Big Data, Shenzhen, China
   * Collaborative Ph.D Student (2023.09 -- now)
-  * Supervisor: [Prof. Qingjiang Shi](https://sse.tongji.edu.cn/info/1210/4497.htm), [Prof. Ye Xue](https://yokoxue.github.io/)
+  * Supervisor: [Prof. Qingjiang Shi](https://sse.tongji.edu.cn/info/1210/4497.htm), [Prof. Ye Xue](https://yokoxue.github.io/), [Prof. Akang Wang](https://akangw.github.io/)
 * ZeroLab, Peking University, Beijing, China
   * Co-supervision Ph.D Student (2022.01 -- now)
   * Supervisor: [Prof. Zhouchen Lin](https://zhouchenlin.github.io/)
