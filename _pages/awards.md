@@ -9,6 +9,7 @@ author_profile: true
 1. Gold Award, Joint PhD Scholarship of the SRIBD, 2024, 2025
 2. Outstanding Presentation Award, 10th Graduate Student Forum of the Mathematical Programming Society, ORSC, 2024
 3. Wireless Future Star, Advanced MIMO Wireless Communication Workshop, Tsinghua University, 2025
+4. Outstanding Presentation Award, Advanced Optimization Algorithm Software and Application Symposium, ORSC, 2026
 
 ## Undergraduate Phase: 
 
